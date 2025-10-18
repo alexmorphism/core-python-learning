@@ -24,8 +24,9 @@ I’ll focus on writing clean, readable code and developing an intuitive feel fo
 
 ## 🚧 Folder Layout
 
-│
+```
 ├── basics/ # Foundational scripts & syntax practice
 ├── oop/ # Object-Oriented exercises
 ├── error_handling/ # Exceptions & logging
 └── practice_projects/ # Mini projects applying learned concepts
+```
